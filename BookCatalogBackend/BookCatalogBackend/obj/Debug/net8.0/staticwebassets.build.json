@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x5WBMmtwJr6p3Ohp2oTM8aNtLihyj0ZxeRIt91S6s9o=",
+  "Source": "BookCatalogBackend",
+  "BasePath": "_content/BookCatalogBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,63 @@
+.book-info-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    justify-content: flex-start;
+    max-width: 900px; /* Optional, to limit the width for readability */
+    margin: 0 auto; /* Center content horizontally */
+}
+
+.book-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 100%;
+    gap: 30px; /* Adding some space between the cover and details */
+}
+
+.book-cover {
+    width: 220px; /* Slightly bigger cover image */
+    height: 330px;
+    object-fit: cover;
+    border-radius: 8px; /* Rounded corners for the image */
+}
+
+.book-description {
+    max-width: 600px; /* Control the width of the description */
+    text-align: justify; /* Better text alignment */
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.author-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.author-image {
+    width: 180px; /* Larger author image */
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ddd; /* Optional border around the image */
+    margin-bottom: 15px;
+}
+
+.author-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.author-bio {
+    font-size: 14px;
+    color: #777;
+    margin-top: 10px;
+    line-height: 1.5;
+    max-width: 500px; /* Control the width of the bio text */
+}

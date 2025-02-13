@@ -1,0 +1,6 @@
+know flaws made for the sake of simplicity
+no password hashing
+no jwt token verification
+no performance concerns 
+no user crud operations
+no global endpoint constant which might make the project hard to run on other machines

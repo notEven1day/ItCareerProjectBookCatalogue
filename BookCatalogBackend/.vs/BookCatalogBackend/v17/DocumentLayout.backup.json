@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\itCareerProject2\\BookCatalogBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\dtos\\bookdtowithgenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\dtos\\bookdtowithgenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\dtos\\usersignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\dtos\\usersignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\models\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\models\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|f:\\itcareerproject2\\bookcatalogbackend\\bookcatalogbackend\\bookcatalogbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D08008EA-6EFA-48D4-8C12-AB8F9C8365C0}|BookCatalogBackend\\BookCatalogBackend.csproj|solutionrelative:bookcatalogbackend\\bookcatalogbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDtoWithGenres.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\BookDtoWithGenres.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\DTOs\\BookDtoWithGenres.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\BookDtoWithGenres.cs",
+              "RelativeToolTip": "BookCatalogBackend\\DTOs\\BookDtoWithGenres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:46:45.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Controllers\\GenreController.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:08:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwGAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:39:31.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\Book.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\models\\Book.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\Book.cs",
+              "RelativeToolTip": "BookCatalogBackend\\models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:30:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Services\\BookService.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\BookService.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Services\\BookService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:39:50.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\DTOs\\BookDto.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "BookCatalogBackend\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:45:16.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Controllers\\AuthorController.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:07:35.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Program.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Program.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Program.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:21:05.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Services\\GenreService.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\GenreService.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:07:24.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\GenreDto.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\DTOs\\GenreDto.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\GenreDto.cs",
+              "RelativeToolTip": "BookCatalogBackend\\DTOs\\GenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:21:37.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Services\\AuthorService.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Services\\AuthorService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:07:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\Author.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\models\\Author.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\Author.cs",
+              "RelativeToolTip": "BookCatalogBackend\\models\\Author.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:30:02.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:45:37.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\DTOs\\AuthorDto.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "BookCatalogBackend\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:16:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\Genre.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\models\\Genre.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\Genre.cs",
+              "RelativeToolTip": "BookCatalogBackend\\models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:30:45.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserSignUpDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\UserSignUpDto.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\DTOs\\UserSignUpDto.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\UserSignUpDto.cs",
+              "RelativeToolTip": "BookCatalogBackend\\DTOs\\UserSignUpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:42:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\User.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\models\\User.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\User.cs",
+              "RelativeToolTip": "BookCatalogBackend\\models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:28:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "BookCatalogBackend\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:42:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Services\\UserService.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Services\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:43:47.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookCatalogBackend\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:21:09.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\WeatherForecast.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\WeatherForecast.cs",
+              "RelativeToolTip": "BookCatalogBackend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:21:41.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\appsettings.json",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\appsettings.json",
+              "RelativeToolTip": "BookCatalogBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T19:02:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BookCatalogBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:45:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\BookGenre.cs",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\models\\BookGenre.cs",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\models\\BookGenre.cs",
+              "RelativeToolTip": "BookCatalogBackend\\models\\BookGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:31:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookCatalogBackend.http",
+              "DocumentMoniker": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\BookCatalogBackend.http",
+              "RelativeDocumentMoniker": "BookCatalogBackend\\BookCatalogBackend.http",
+              "ToolTip": "F:\\itCareerProject2\\BookCatalogBackend\\BookCatalogBackend\\BookCatalogBackend.http",
+              "RelativeToolTip": "BookCatalogBackend\\BookCatalogBackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-25T11:21:22.337Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

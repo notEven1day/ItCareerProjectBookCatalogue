@@ -1,0 +1,27 @@
+/* Content.css */
+
+.ContentPlusNav {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+
+.Content {
+    flex: 1;
+    margin: 20px auto;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.Book {
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #f9f9f9;
+}

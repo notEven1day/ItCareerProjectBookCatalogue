@@ -1,0 +1,38 @@
+.Book {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    padding: 16px;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+
+
+}
+
+.Book:hover {
+    transform: scale(1.05);
+}
+
+.book-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.book-details-homepage {
+    margin-top: auto;
+    justify-content: space-between;
+}
+
+.book-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.book-publication-year, .book-author {
+    font-size: 0.9em;
+    margin: 4px 0;
+    color: #555;
+}
