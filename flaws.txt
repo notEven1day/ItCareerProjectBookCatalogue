@@ -3,4 +3,5 @@ no password hashing
 no jwt token verification
 no performance concerns 
 no user crud operations
+missing unit test(project has a developing time of roughly 150 hours. there is no future plan for scaling)
 no global endpoint constant which might make the project hard to run on other machines
