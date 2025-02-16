@@ -43,8 +43,8 @@ CREATE TABLE Genres (
 
 INSERT INTO Users (Username, Email, Password, Role, ProfilePicUrl) VALUES
 ('admin', 'admin@example.com', 'hashed_password1', 'Admin', 'https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF1000,1000_QL80_.jpg'),
-('johndoe', 'johndoe@example.com', 'hashed_password2', 'User', NULL),
-('janedoe', 'janedoe@example.com', 'hashed_password3', 'User', NULL);
+('johndoe', 'johndoe@example.com', 'hashed_password2', 'User', 'https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF1000,1000_QL80_.jpg'),
+('janedoe', 'janedoe@example.com', 'hashed_password3', 'User', 'https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF1000,1000_QL80_.jpg');
 
 
 INSERT INTO Genres (GenreID, Name) VALUES
